@@ -47,7 +47,7 @@ Regular Expression:
 	Exit immediately whether match is found or error as well with zero status.
 -R/-r:
 	Reads all files from the directory recursively and prints matches. Same as using -d recurse.
--s:
+-s: //DONE
 	Supresses error messages about non existent or un readable files.
 -T:
 	Keeps a tab space when used with -H, -n and -b.
