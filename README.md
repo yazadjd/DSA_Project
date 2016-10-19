@@ -1,3 +1,7 @@
+Name: Yazad Jamshed Davur
+MIS: 111503072
+Project topic: Grep Command
+
 Grep Function returns the whole lines matching a specific entered pattern from given input of files prior to the options entered by the user.
 Grep stands for Global Regular Expression Print.
 
