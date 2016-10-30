@@ -1,5 +1,0 @@
-This is a text document.
-Hellofromtheotherside
-Line Hello world
-b/*Hello*/jkdkabc
-This is random text.
