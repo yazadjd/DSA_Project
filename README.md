@@ -1,16 +1,13 @@
 Name: Yazad Jamshed Davur
 MIS: 111503072
-Project topic: Grep Command
+Project title: Grep Command
 
 Grep Function returns the whole lines matching a specific entered pattern from given input of files prior to the options entered by the user.
-Grep stands for Global Regular Expression Print.
 
 Command:
 	grep [Options] [Pattern] [Filenames]
-Exit Satus:
-	Exit status is 0 if match is found and 1 if not found. 2, if an error occurs.
-
-Options:
+	
+Options Implemented:
 
 -A NUM :
 	Prints NUM number of lines after each pattern match.
@@ -38,8 +35,6 @@ Options:
 	Prints matches found in the first NUM number of lines in each file.
 -n:
 	Prints the line number for corresponding matches.
--o:
-	Prints only the matching pattern from each line.
 -q:
 	Exit immediately whether match is found or error as well with zero status.
 -R/-r:
